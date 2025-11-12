@@ -7,3 +7,5 @@ Course cloning is a normally a Pro feature. This plugin will create a Course Clo
 After the cloning remember to visit wp-admin/edit.php?post_type=courses and change its name, add a post category (just copy the original course's category) and change its slug. Then publish.
 
 This was successfully testes to clone the Course and its metadata including topics, lessons and content, quizzes and their answers but it has not been tested with assignments yet. It does not copy enrolled students or any student data as this would usually be unwanted.
+
+This was last tested on Tutor LMS v3.8.3
